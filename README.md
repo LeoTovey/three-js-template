@@ -1,7 +1,7 @@
 
 
-# Simple Mass-Spring Game
-<https://leotovey.github.io/mass-spring-model/>
+# Template
+<https://leotovey.github.io/three-js-template/>
 ## Install
 This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go check them out if you don't have them locally installed.
 
@@ -19,5 +19,3 @@ npm run dev
 npm run build
 ```
 
-## Screenshot
-![](./screenshot.png)
